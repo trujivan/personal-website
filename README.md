@@ -291,7 +291,7 @@ The template comes with an optional section that can be added to the page markup
     <!-- End .optional-section-block -->
 
 </div>
-<!-- End .optional-section -->
+<!-- End .optional-section  -->
 ```
 
 You can copy .optional-section-block for each new item you wish you have in the optional section. Also, the background-alt class may need to be removed depending on where the optional section is placed in your layout as this adds the grey background. If you play it at the bottom after "Skills", it can be used as is. Also, by default the border is applied at the top, but this can also be adjusted as needed.
